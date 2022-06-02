@@ -7,9 +7,8 @@
 #nav-table { width: 800px; } 
 #nav-td {width: 250px; text-align: center; }
 
-#nav-img { image-align: center; } 
+#nav-img { margin-left: auto; margin-right: auto; width: 70%; } 
         body { 
-
             background-color: rgb(143, 188, 143); 
                 
         }
