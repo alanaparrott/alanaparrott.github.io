@@ -5,7 +5,8 @@
                 text-align: center; 
         }  
         
-        body {
+        body { 
+                img scr: center;
             background-color: rgb(143, 188, 143); 
                 
         }
