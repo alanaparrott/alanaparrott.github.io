@@ -7,7 +7,7 @@
 #nav-table { width: 800px; } 
 #nav-td {width: 250px; text-align: center; }
 
-#nav-img {width: 100%;  text-align: center; } 
+#nav-img { image-align: center; } 
         body { 
 
             background-color: rgb(143, 188, 143); 
