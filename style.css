@@ -6,12 +6,8 @@
         }  
 #nav-table { width: 800px; } 
 #nav-td {width: 200px; text-align: center; }
-img { 
-                display: block;
-                margin-left: auto; 
-                margin-right:auto;
-                width: 800px; 
-}
+
+#nav-banner { text-align: center; } 
         body { 
 
             background-color: rgb(143, 188, 143); 
