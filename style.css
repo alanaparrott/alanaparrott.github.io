@@ -9,7 +9,9 @@
         width: 800px; } 
 #nav-td {
         width: 250px; text-align: center; }
-.about { background-image: url("MyBackgroundd.jpg");}      
+.about { 
+        background-image: url("MyBackgroundd.jpg");
+}      
 body {  
             background-color: rgb(143, 188, 143);    
         } 
